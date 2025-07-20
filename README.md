@@ -86,9 +86,25 @@ performance may require further tuning.</li>
 <h2>Dimensional Modeling</h2>
 <h3>Bus Matrix</h3>
 
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/b009482c583eb96a72180534bc18427382a9d6e5/images/BusMatrix.png" alt="image alt" width="700" />
+</p>
+
 <h3>Tables used for Detailed Star Schema</h3>
 
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/b009482c583eb96a72180534bc18427382a9d6e5/images/FactTables.png" alt="image alt" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/b009482c583eb96a72180534bc18427382a9d6e5/images/DimensionTables.png" alt="image alt" width="700" />
+</p>
+
 <h3>Star Schema Example</h3>
+
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/b009482c583eb96a72180534bc18427382a9d6e5/images/StarSchemaExample.png" alt="image alt" width="700" />
+</p>
 
 <h3>Naming Conventions and Standards</h3>
 <ul>
