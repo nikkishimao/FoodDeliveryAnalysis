@@ -9,9 +9,7 @@ payment transactions. By organizing this data into a dimensional model, we aim t
 efficient business intelligence reporting, performance monitoring, and operational decision-
 making.
   
-Our goal is to design a comprehensive data warehouse that enables deeper insights into
-the customer journey—from placing an order to final delivery—as well as restaurant
-performance and driver efficiency across regions.</p>
+With Isha Kadam, Purtee Bhise, and Tharuni Tekula, we designed a comprehensive data warehouse that enables deeper insights into the customer journey, from placing an order to final delivery, as well as restaurant performance and driver efficiency across regions.</p>
 
 <h2>Objectives</h2>
 
