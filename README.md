@@ -185,6 +185,15 @@ provide interactive and intuitive visualizations that allow stakeholders to moni
 various aspects of the food delivery operations, including order trends, delivery efficiency,
 customer behavior, and restaurant performance.</p>
 
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/ca240f9495549bffe0f7bb05a934319b2c071a53/images/PowerBIDash.png" width="850" />
+</p>
+
+<h3>Star Schema (from PowerBI)</h3>
+<p align="center">
+  <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/ca240f9495549bffe0f7bb05a934319b2c071a53/images/PowerBIStar.png" width="850" />
+</p>
+
 <h3>Key Features</h3>
 <ul>
   <li><strong>Order Trends:</strong>
