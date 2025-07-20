@@ -45,6 +45,10 @@ cases such as:
 </ul>
 
 <h2>Data Overview</h2>
+<ul>
+  <li><a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/13ff8ed42a2acee3263d4346b1a7c7d89e458b30/code/data.csv">Data Used</a></li>
+</ul>
+
 <h3>Source Data Description</h3>
 <p>The dataset consists of transactional and operational data related to a food delivery platform, including:</p>
 <ul>
@@ -57,8 +61,6 @@ cases such as:
   <li><strong>Regions/Locations:</strong>Delivery regions associated with orders, allowing geographic performance analysis.</li>
   <li><strong>Order Types:</strong>Classification of orders as ASAP or Scheduled for fulfillment timing analysis.</li>
 </ul>
-
-<a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/13ff8ed42a2acee3263d4346b1a7c7d89e458b30/code/data.csv">Data Used</a>
 
 <h3>Data Profiling Insights</h3>
 <ul>
@@ -205,10 +207,15 @@ star schema design</p>
 
 <h2>Business Intelligence Implementation</h2>
 <h3>Dashboard Overview</h3>
+
+<ul>
+  <li><a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/25e234b69801763448888f41b0e6c3fbe9f763a0/code/Food%20Delivery%20Dashboard.pbix">Power BI Dashboard</a>
+
 <p>The BI dashboard was created using Power BI. The primary purpose of the dashboard is to
 provide interactive and intuitive visualizations that allow stakeholders to monitor and analyze
 various aspects of the food delivery operations, including order trends, delivery efficiency,
-customer behavior, and restaurant performance.</p>
+customer behavior, and restaurant performance.</p></li>
+</ul>
 
 <p align="center">
   <img src="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/ca240f9495549bffe0f7bb05a934319b2c071a53/images/PowerBIDash.png" width="850" />
