@@ -58,6 +58,8 @@ cases such as:
   <li><strong>Order Types:</strong>Classification of orders as ASAP or Scheduled for fulfillment timing analysis.</li>
 </ul>
 
+<a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/13ff8ed42a2acee3263d4346b1a7c7d89e458b30/code/data.csv">Data Used</a>
+
 <h3>Data Profiling Insights</h3>
 <ul>
   <li>Missing values were identified in specific columns (e.g., some refund amounts and
