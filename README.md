@@ -190,7 +190,16 @@ and dim_restaurant.</li>
 </ul>
 
 <h2>Code</h2>
-
+<p>Used Pythin for data cleaning and as an ETL pipeline that ingests delivery order data from the
+CSV file and loads it into MySQL data warehouse</p>
+<ul>
+  <li><a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/5065e8da5b42863f654f37e0665a5ad9fd4538d0/code/loading_dw.py">Python Code</a></li>
+</ul>
+<p>Full set up of the data warehouse schema by including staging, dimension creation, and
+star schema design</p>
+<ul>
+  <li><a href="https://github.com/nikkishimao/FoodDeliveryAnalysis/blob/5065e8da5b42863f654f37e0665a5ad9fd4538d0/code/Food%20Delivery.sql">SQL Code</a></li>
+</ul>
 
 <h2>Business Intelligence Implementation</h2>
 <h3>Dashboard Overview</h3>
